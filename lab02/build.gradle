@@ -13,7 +13,7 @@ dependencies {
 }
 
 application {
-    mainClass = 'Lab02.SimpleTest' 
+    mainClass = 'csci2020u.lab02.SimpleTest' 
 }
 
 tasks.named('test') {

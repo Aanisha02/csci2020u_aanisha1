@@ -71,7 +71,7 @@ set CLASSPATH=%APP_HOME%\lib\lab02.jar;%APP_HOME%\lib\guava-30.1.1-jre.jar;%APP_
 
 
 @rem Execute lab02
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LAB02_OPTS%  -classpath "%CLASSPATH%" Lab02.SimpleTest %*
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LAB02_OPTS%  -classpath "%CLASSPATH%" csci2020u.lab02.SimpleTest %*
 
 :end
 @rem End local scope for the variables with windows NT shell
